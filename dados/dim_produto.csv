@@ -1,0 +1,61 @@
+﻿id_produto;produto;linha;preco_tabela;custo_unitario;tempo_padrao_min
+1;Viga P;Estruturas metálicas;560,27;404,44;43,9
+2;Viga M;Estruturas metálicas;825,81;643,46;80,5
+3;Viga G;Estruturas metálicas;1302,92;950,04;127,1
+4;Coluna P;Estruturas metálicas;534,81;416,57;21,5
+5;Coluna M;Estruturas metálicas;833,81;638,09;52,8
+6;Coluna G;Estruturas metálicas;1554,56;1107,52;126,6
+7;Treliça P;Estruturas metálicas;559,79;399,16;18,7
+8;Treliça M;Estruturas metálicas;808,26;605,55;18,3
+9;Treliça G;Estruturas metálicas;1316,88;998,95;84,9
+10;Perfil U P;Estruturas metálicas;607,58;454,22;32,1
+11;Perfil U M;Estruturas metálicas;899,16;705,16;15,9
+12;Perfil U G;Estruturas metálicas;1388,81;1029,89;51,1
+13;Perfil I P;Estruturas metálicas;518,86;419,05;46,4
+14;Perfil I M;Estruturas metálicas;806,7;631,09;81,0
+15;Perfil I G;Estruturas metálicas;1534,49;1115,07;107,1
+16;Eixo P;Peças usinadas;141,57;96,56;33,4
+17;Eixo M;Peças usinadas;220,51;124,27;42,1
+18;Eixo G;Peças usinadas;385,02;264,51;74,9
+19;Flange P;Peças usinadas;124,99;84,14;45,7
+20;Flange M;Peças usinadas;212,04;116,03;59,2
+21;Flange G;Peças usinadas;385,79;231,1;111,7
+22;Bucha P;Peças usinadas;118,17;74,34;19,8
+23;Bucha M;Peças usinadas;213,56;145,5;87,6
+24;Bucha G;Peças usinadas;342,02;203,12;63,8
+25;Engrenagem P;Peças usinadas;146,81;87,4;14,9
+26;Engrenagem M;Peças usinadas;242,77;134,1;82,8
+27;Engrenagem G;Peças usinadas;381,82;257,3;50,0
+28;Polia P;Peças usinadas;148,95;91,16;17,1
+29;Polia M;Peças usinadas;245,35;146,84;57,7
+30;Polia G;Peças usinadas;360,12;228,15;56,0
+31;Tanque P;Caldeiraria;1343,81;880,0;30,0
+32;Tanque M;Caldeiraria;2637,16;1902,29;71,3
+33;Tanque G;Caldeiraria;3790,41;2711,42;29,4
+34;Silo P;Caldeiraria;1383,51;890,9;38,6
+35;Silo M;Caldeiraria;2544,01;1773,56;80,5
+36;Silo G;Caldeiraria;4213,42;2903,74;112,7
+37;Tubulação P;Caldeiraria;1492,33;1041,21;43,4
+38;Tubulação M;Caldeiraria;2919,16;2165,64;85,0
+39;Tubulação G;Caldeiraria;3763,87;2520,45;128,8
+40;Duto P;Caldeiraria;1390,01;986,53;45,7
+41;Duto M;Caldeiraria;2221,13;1520,55;74,5
+42;Duto G;Caldeiraria;4437,24;2985,81;54,4
+43;Reservatório P;Caldeiraria;1418,91;1016,54;17,1
+44;Reservatório M;Caldeiraria;2479,93;1602,59;58,0
+45;Reservatório G;Caldeiraria;4207,93;3060,92;146,9
+46;Lâmina P;Componentes agrícolas;82,6;50,1;32,2
+47;Lâmina M;Componentes agrícolas;140,89;87,02;70,7
+48;Lâmina G;Componentes agrícolas;243,76;165,68;137,5
+49;Disco P;Componentes agrícolas;81,77;50,22;12,1
+50;Disco M;Componentes agrícolas;137,06;91,48;86,3
+51;Disco G;Componentes agrícolas;220,22;138,65;111,8
+52;Suporte P;Componentes agrícolas;89,47;58,41;52,7
+53;Suporte M;Componentes agrícolas;132,97;90,88;30,2
+54;Suporte G;Componentes agrícolas;205,92;145,77;142,2
+55;Haste P;Componentes agrícolas;92,57;66,76;36,2
+56;Haste M;Componentes agrícolas;139,13;91,48;64,4
+57;Haste G;Componentes agrícolas;224,2;136,56;84,9
+58;Garra P;Componentes agrícolas;87,23;56,89;17,3
+59;Garra M;Componentes agrícolas;121,6;82,89;72,3
+60;Garra G;Componentes agrícolas;260,51;166,63;39,9
